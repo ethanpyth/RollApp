@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">RollApp</string>
     <string name="button">Roll</string>
-    <string name="description">Image de la premiere face du dé</string>
+    <string name="description">Dice Image</string>
 </resources>
